@@ -1,7 +1,10 @@
 def main():
-    print('here')
+    """
+
+    :return:
+    """
+    # print(get_models())
 
 
 if __name__ == '__main__':
     main()
-
